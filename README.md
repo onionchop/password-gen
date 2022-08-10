@@ -9,5 +9,8 @@ Application that enables employees to generate random passwords based on criteri
 * JavaScript
 
 ## Links
-* Link to the repo (https://github.com/onionchop/password-gen) 
-* Link to deployed app (https://onionchop.github.io/password-gen/)
+* [Link to the repo](https://github.com/onionchop/password-gen) 
+* [Link to deployed app](https://onionchop.github.io/password-gen/)
+
+## Screenshots
+[Screenshot of deployed site](/assets/images/screenshot.png)
